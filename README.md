@@ -5,6 +5,7 @@ Languages: JavaScript, HTML5, CSS3
 Frameworks/Libraries: Reactjs, BE Express & Node
 Databases: Supabase, PostgreSQL
 Software Tools: Github, Salesforce CRM, Netsuite, Ajera, Infor, Vision ERP
+Dev Practices: TDD, DDD Pair/Mob Programming, Scrum
 
 
 I believe in uplifting teammates and advocacy for others as being a cornerstone for a positive work environment and a smooth sailing project.
