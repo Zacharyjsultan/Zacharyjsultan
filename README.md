@@ -9,5 +9,5 @@ Software Tools: Github, Salesforce CRM, Netsuite, Ajera, Infor, Vision ERP
 
 I believe in uplifting teammates and advocacy for others as being a cornerstone for a positive work environment and a smooth sailing project.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="zachary-sultan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/zachary-sultan?trk=profile-badge">My Linkedin</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="zachary-sultan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/zachary-sultan?trk=profile-badge">Linkedin</a></div>
               
