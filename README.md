@@ -1,14 +1,12 @@
-A well-seasoned business professional currently transitioning towards software development from a background in software sales and business management. Heightened interest in full-stack software engineering, technical Project Management, Enterprise Resource Planning and UX design. With experience ranging from business development, sales to management I have developed creativity, problem solving, people skills and a heightened emphasis on increasing profitability and value through diligence, process improvement and inclusion. 
+Well-seasoned business professional currently transitioning towards software development from a background in software sales and business management. Heightened interests in Frontend Software Development, technical project management, Enterprise Resource Planning and UI. With ranging experience I have developed creativity, problem solving, people skills and an interest in increasing profitability and value through diligence, process improvement and inclusion. 
 
-💻 Tech Stack
 Languages: JavaScript, HTML5, CSS3
-Frameworks/Libraries: Reactjs, BE Express & Node
-Databases: Supabase, PostgreSQL
-Software Tools: Github, Salesforce CRM, Netsuite, Ajera, Infor, Vision ERP
-Dev Practices: TDD, DDD Pair/Mob Programming, Scrum
+Frameworks/Libraries: React, Express & Node
+Databases: SUPABASE, PostgreSQL
+Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision
+Dev Practices: TDD, DDD Pair & Mob Programming, Scrum
 
-
-I believe in uplifting teammates and advocacy for others as being a cornerstone for a positive work environment and a smooth sailing project.
+I believe in uplifting teammates and advocacy for others as being a cornerstone for a positive work environment and a smooth sailing business.
 
 
 
