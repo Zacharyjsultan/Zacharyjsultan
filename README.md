@@ -1,8 +1,8 @@
-Well-seasoned business professional currently transitioning towards software development from a background in software sales and business management. Heightened interests in Frontend Software Development, technical project management, Enterprise Resource Planning and UI. With ranging experience I have developed creativity, problem solving, people skills and an interest in increasing profitability and value through diligence, process improvement and inclusion. 
+Well-seasoned business professional currently transitioning towards software development from a background in software sales and business management. Heightened interests in Frontend, React & Javascript, technical project management and UI. With ranging experience I have developed creativity, problem solving, people skills and an interest in increasing value through diligence, process improvement and inclusion. 
 
-Languages: JavaScript, HTML5, CSS3
+Languages: JavaScript, HTML5, CSS3, SQL
 Frameworks/Libraries: React, Express & Node
-Databases: SUPABASE, PostgreSQL
+Databases: Supabase, Postgres
 Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision
 Dev Practices: TDD, DDD Pair & Mob Programming, Scrum
 
