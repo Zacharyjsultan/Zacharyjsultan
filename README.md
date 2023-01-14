@@ -48,7 +48,6 @@ A VSCode Extension and custom Jest reporter designed to foster positive thought 
 
 <img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800"/>
 
-<img src="./Jest_Example_Default.png" alt="Error-Affirmations-Example" width="800"/>
 
 
 
