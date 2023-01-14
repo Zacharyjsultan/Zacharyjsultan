@@ -18,27 +18,5 @@ As a developer, I am constantly seeking new challenges and opportunities to grow
 </a>
 
 
-```class WhoAmI {
-  constructor() {
-    this.user = 'Zach J Sultan';
-    this.currentWork = 'Student of Alchemy';
-    this.hobbies = [
-      'Skateboarding',
-      'Painting',
-      'Outdoor Adventures',
-      'Cooking!',
-    ];
-    this.city = 'Portland, Oregon';
-    this.ambitions = [
-      'Land my first job!',
-      'Create my ideal recipe developer/repository',
-      'Start a family',
-      'Go to Japan',
-      // 10 other great lofty ideas!
-    ];
-  }
-}
-
-
 
 
