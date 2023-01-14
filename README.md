@@ -37,7 +37,7 @@ As a developer, I am constantly seeking new challenges and opportunities to grow
       // 10 other great lofty ideas!
     ];
   }
-}```
+}
 
 
 
