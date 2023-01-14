@@ -45,8 +45,8 @@ Dev Practices: TDD, DDD Pair & Mob Programming, Scrum
 A VSCode Extension and custom Jest reporter designed to foster positive thought and self-improvement through error based and daily affirmations.
 [Error Affirmations](https://marketplace.visualstudio.com/items?itemName=VSCodeEmpaths.erroraffirmations&ssr=false#overview)
 
-
-<img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800"/>
+<p align="center">
+<img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800" /></p>
 
 
 
