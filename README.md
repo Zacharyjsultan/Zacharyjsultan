@@ -6,14 +6,14 @@
 </a>
 </h1>
 
-
+## About Zach
 My name is Zach Sultan and as a Well-seasoned business professional with a background in software sales and management, I have developed a keen interest in front-end development utilizing technologies such as React and JavaScript. My expertise also extends to technical project management and UI design. With a wide range of experience, I have honed my creativity, problem-solving skills, and ability to effectively communicate with people in both professional and coding environments. 
 
-I firmly believe in fostering a positive work environment through uplifting my teammates and advocating for others. 
+When I am not clacking away on VSCode, I enjoy skateboarding, painting and cooking! 
 <br/>  
 
 
-## Languages and Tools  
+## Languages, Tools & Framworks
 <div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
