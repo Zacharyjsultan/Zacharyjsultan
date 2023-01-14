@@ -47,5 +47,7 @@ Dev Practices: TDD, DDD Pair & Mob Programming, Scrum
 
 <img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800"/>
 
+<img src="./Jest_Example_Default.png" alt="Error-Affirmations-Example" width="800"/>
+
 
 
