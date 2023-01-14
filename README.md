@@ -6,7 +6,7 @@
 </a>
 </h1>
 
-## About Zach
+## A little bit about me..
 My name is Zach Sultan and as a Well-seasoned business professional with a background in software sales and management, I have developed a keen interest in front-end development utilizing technologies such as React and JavaScript. My expertise also extends to technical project management and UI design. With a wide range of experience, I have honed my creativity, problem-solving skills, and ability to effectively communicate with people in both professional and coding environments. 
 
 When I am not clacking away on VSCode, I enjoy skateboarding, painting and cooking! 
