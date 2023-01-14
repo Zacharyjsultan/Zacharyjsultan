@@ -44,8 +44,8 @@ Dev Practices: TDD, DDD Pair & Mob Programming, Scrum
 
 [Error Affirmations](https://marketplace.visualstudio.com/items?itemName=VSCodeEmpaths.erroraffirmations&ssr=false#overview)
 
-<a href=""></a>
 
+<img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800"/>
 
 
 
