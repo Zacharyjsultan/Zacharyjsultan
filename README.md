@@ -1,4 +1,4 @@
-<h1>Hey There! <a href="https://linkedin.com/in/zachary-sultan" target="_blank">
+<h1>Hey There! <a href="https://linkedin.com/in/zachary-sultan" target="_blank" align="center">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: auto;" />
 </a>
   <a href="mailto:zacharyjsultan@gmail.com">
@@ -38,6 +38,13 @@ Dev Practices: TDD, DDD Pair & Mob Programming, Scrum
 
 <br />
 <br/>  
+
+
+## Try my VS Code Extension!
+
+[Error Affirmations](https://marketplace.visualstudio.com/items?itemName=VSCodeEmpaths.erroraffirmations&ssr=false#overview)
+
+<a href=""></a>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zacharyjsultan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
