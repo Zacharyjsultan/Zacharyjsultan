@@ -6,6 +6,7 @@ As a Well-seasoned business professional with a background in software sales and
 With a wide range of experience, I have honed my creativity, problem-solving skills, and ability to effectively communicate with people. 
 
 Languages: JavaScript, HTML5, CSS3, SQL
+
 Frameworks/Libraries: React, Express & Node
 Databases: Supabase, Postgres
 Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision
