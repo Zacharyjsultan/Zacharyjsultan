@@ -13,7 +13,7 @@ Dev Practices: TDD, DDD Pair & Mob Programming, Scrum
 
 As a developer, I am constantly seeking new challenges and opportunities to grow and improve my knowledge. I am driven by a passion for creating innovative and user-friendly solutions and working collaboratively to deliver outstanding results. I firmly believe in fostering a positive work environment through uplifting my teammates and advocating for others. 
 
-class WhoAmI {
+```class WhoAmI {
   constructor() {
     this.user = 'Zach J Sultan';
     this.currentWork = 'Student of Alchemy';
@@ -32,7 +32,9 @@ class WhoAmI {
       // 10 other great lofty ideas!
     ];
   }
-}
+}```
+
+
 
 
 <a href="https://linkedin.com/in/zachary-sultan" target="_blank">
