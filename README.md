@@ -13,6 +13,11 @@ Dev Practices: TDD, DDD Pair & Mob Programming, Scrum
 
 As a developer, I am constantly seeking new challenges and opportunities to grow and improve my knowledge. I am driven by a passion for creating innovative and user-friendly solutions and working collaboratively to deliver outstanding results. I firmly believe in fostering a positive work environment through uplifting my teammates and advocating for others. 
 
+<a href="https://linkedin.com/in/zachary-sultan" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: auto;" />
+</a>
+
+
 ```class WhoAmI {
   constructor() {
     this.user = 'Zach J Sultan';
@@ -37,6 +42,3 @@ As a developer, I am constantly seeking new challenges and opportunities to grow
 
 
 
-<a href="https://linkedin.com/in/zachary-sultan" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: auto;" />
-</a>
