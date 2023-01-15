@@ -38,6 +38,7 @@ Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision
 Dev Practices: TDD, DDD Pair & Mob Programming, Scrum 
 
 <br />
+
 <br/>  
 
 
@@ -48,6 +49,8 @@ A VSCode Extension and custom Jest reporter designed to foster positive thought 
 
 <p align="center">
 <img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800" /></p>
+
+
 
 
 
