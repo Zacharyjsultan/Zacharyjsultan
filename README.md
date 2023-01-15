@@ -11,6 +11,8 @@
 
 When I am not clacking away on VSCode, I enjoy skateboarding, outdoor adventures and cooking. 
 
+<center>PORTFOLIO SITE COMING SOON!</center>
+
 <br/>  
 
 
