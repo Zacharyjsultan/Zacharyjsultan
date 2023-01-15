@@ -7,9 +7,10 @@
 </h1>
 
 ## A little bit about me..
-&nbsp;&nbsp;&nbsp;&nbsp;My name is Zach Sultan and as a Well-seasoned business professional with a background in software sales and management, I have developed a keen interest in front-end development utilizing technologies such as React and JavaScript. My expertise also extends to technical project management and UI design. With a wide range of experience, I have honed my creativity, problem-solving skills, and ability to effectively communicate with people in both professional and coding environments. 
+&nbsp;&nbsp;&nbsp;&nbsp;Well-seasoned business professional and Software Developer with a background in software-sales and business management. I have developed a keen interest in frontend development utilizing React and Javascript, project management and UI/UX. With ranging experience I have developed creativity, problem solving, people skills and an interest in increasing value through optimal user experience.
 
-When I am not clacking away on VSCode, I enjoy skateboarding, painting and cooking! 
+When I am not clacking away on VSCode, I enjoy skateboarding, outdoor adventures and cooking. 
+
 <br/>  
 
 
@@ -47,6 +48,8 @@ A VSCode Extension and custom Jest reporter designed to foster positive thought 
 
 <p align="center">
 <img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800" /></p>
+
+
 
 
 
