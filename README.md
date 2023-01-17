@@ -48,7 +48,7 @@ A VSCode Extension and custom Jest reporter designed to foster positive thought 
 <p align="center">
 <img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800" /></p>
 
-## Visitor Counter
+## Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{Zacharyjsultan}/count.svg)
 
 
