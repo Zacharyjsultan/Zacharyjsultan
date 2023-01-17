@@ -37,7 +37,7 @@ Databases: Supabase, Postgres
 
 Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision 
 
-Dev Practices: TDD, DDD Pair & Mob Programming, Scrum 
+Dev Practices: TDD, DDD Pair & Mob Programming, Object Oriented Programming OOP 
 
 <br />
 
