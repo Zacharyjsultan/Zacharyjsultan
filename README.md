@@ -39,12 +39,8 @@ Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision
 
 Dev Practices: TDD, DDD Pair & Mob Programming, Object Oriented Programming OOP 
 
-<br />
 
-<br/>  
-
-
-## Try my customizable VSCode Extension "Error-Affirmations"!
+## Try my VSCode Extension "Error-Affirmations"!
 
 A VSCode Extension and custom Jest reporter designed to foster positive thought and self-improvement through error based and daily affirmations.
 [Error Affirmations](https://marketplace.visualstudio.com/items?itemName=VSCodeEmpaths.erroraffirmations&ssr=false#overview)
@@ -52,9 +48,8 @@ A VSCode Extension and custom Jest reporter designed to foster positive thought 
 <p align="center">
 <img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800" /></p>
 
-
-
-
+## Visitor Counter
+![Visitor Count](https://profile-counter.glitch.me/{Zacharyjsultan}/count.svg)
 
 
 
