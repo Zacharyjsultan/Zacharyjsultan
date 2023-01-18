@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff">
 </a>
 </h1>
+ 
 
 ## A little bit about me..
 &nbsp;&nbsp;&nbsp;&nbsp;Well-seasoned business professional and Software Developer with a background in software-sales and business management. I have developed a keen interest in front-end development utilizing React and Javascript, project management and UI/UX. With ranging experience I have developed creativity, problem solving, people skills and an interest in increasing value through optimal user experience.
@@ -13,7 +14,7 @@ When I am not clacking away on VSCode, I enjoy skateboarding, outdoor adventures
 
 PORTFOLIO SITE COMING SOON!
 
-Up next: Python, Typescript, C# & Adobe Illustrator/Photoshop
+
 
 <br/>  
 
@@ -30,7 +31,7 @@ Up next: Python, Typescript, C# & Adobe Illustrator/Photoshop
 
 
 </div>
-
+<div>
 Languages: JavaScript, HTML5, CSS3, SQL 
 
 Frameworks/Libraries: React, Express & Node 
@@ -40,7 +41,14 @@ Databases: Supabase, Postgres
 Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision 
 
 Dev Practices: TDD, DDD Pair & Mob Programming, Object Oriented Programming OOP 
+  
+Up next: Python, Typescript, C# & Adobe Illustrator/Photoshop
+  </div>
+  </br>
+<div align="center">
 
+<img src="./Avatar-removebg-preview.png" alt="Alt text" title="Optional title" width="200" height="200" >
+    </div>
 
 ## Try my VSCode Extension "Error-Affirmations"!
 
@@ -51,7 +59,9 @@ A VSCode Extension and custom Jest reporter designed to foster positive thought 
 <img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800" /></p>
 
 ## Visitors
+
 ![Visitor Count](https://profile-counter.glitch.me/{Zacharyjsultan}/count.svg)
+  
 
 
 
