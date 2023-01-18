@@ -11,7 +11,9 @@
 
 When I am not clacking away on VSCode, I enjoy skateboarding, outdoor adventures and cooking. 
 
-<center>PORTFOLIO SITE COMING SOON!</center>
+PORTFOLIO SITE COMING SOON!
+
+Up next: Python, Typescript, C# & Adobe Illustrator/Photoshop
 
 <br/>  
 
