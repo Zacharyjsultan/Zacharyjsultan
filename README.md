@@ -1,4 +1,4 @@
-<h1>Hey There! <a href="https://linkedin.com/in/zachary-sultan" target="_blank" align="center">
+<h1>Hey There! <a href="https://linkedin.com/in/zachary-sultan" target="_blank" align="center"> </br>
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: auto;" />
 </a>
   <a href="mailto:zacharyjsultan@gmail.com">
