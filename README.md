@@ -1,4 +1,3 @@
-## <img src="./Screen Shot 2023-01-18 at 3.19.17 PM.png" alt="Alt text" title="Optional title" width="1000" height="250">
 <h1>Hey There! <a href="https://linkedin.com/in/zachary-sultan" target="_blank" align="center">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: auto;" />
 </a>
