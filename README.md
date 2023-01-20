@@ -1,4 +1,4 @@
-<h1>Hey There! <a href="https://linkedin.com/in/zachary-sultan" target="_blank" align="center"> </br>
+<h1 >Welcome to my code! <a href="https://linkedin.com/in/zachary-sultan" target="_blank" align="center"> </br>
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: auto;" />
 </a>
   <a href="mailto:zacharyjsultan@gmail.com">
@@ -12,9 +12,13 @@
 
 When I am not clacking away on VSCode, I enjoy skateboarding, outdoor adventures and cooking. 
 
+
+
 PORTFOLIO SITE COMING SOON!
-
-
+<div align="center">
+<img src="./Avatar-removebg-preview.png" alt="Alt text" title="Optional title" width="200" height="200" align="center" >
+</div>
+    </div>
 
 <br/>  
 
@@ -47,8 +51,7 @@ Up next: Python, Typescript, C# & Adobe Illustrator/Photoshop
   </br>
 <div align="center">
 
-<img src="./Avatar-removebg-preview.png" alt="Alt text" title="Optional title" width="200" height="200" >
-    </div>
+
 
 ## Try my VSCode Extension "Error-Affirmations"!
 
