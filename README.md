@@ -1,10 +1,12 @@
-<h1 >Welcome to my code! <a href="https://linkedin.com/in/zachary-sultan" target="_blank" align="center"> </br>
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: auto;" />
+ <a href="https://linkedin.com/in/zachary-sultan" target="_blank" align="center"> 
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin align="left" />
+    <a href="mailto:zacharyjsultan@gmail.com">
+  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" align="right">
+  <h1 align="center" >Welcome to my code!</h1>
 </a>
-  <a href="mailto:zacharyjsultan@gmail.com">
-  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff">
+
 </a>
-</h1>
+
  
 
 ## A little bit about me..
@@ -36,7 +38,7 @@ When I am not clacking away on VSCode, I enjoy skateboarding, outdoor adventures
 
 </div>
 <div>
-  
+
 Languages: JavaScript, HTML5, CSS3, SQL 
 
 Frameworks/Libraries: React, Express & Node 
@@ -48,7 +50,9 @@ Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision
 Dev Practices: TDD, DDD Pair & Mob Programming, Object Oriented Programming OOP 
   
 Up next: Python, Typescript, C# & Adobe Illustrator/Photoshop
+  
   </div>
+ 
   </br>
 <div align="center">
 
