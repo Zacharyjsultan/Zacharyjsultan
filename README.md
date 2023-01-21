@@ -59,9 +59,12 @@ Up next: Python, Typescript, C# & Adobe Illustrator/Photoshop
 
 
 ## Try my VSCode Extension "Error-Affirmations"!
-
+</div>
 A VSCode Extension and custom Jest reporter designed to foster positive thought and self-improvement through error based and daily affirmations.
+ </br>
+
 [Error Affirmations](https://marketplace.visualstudio.com/items?itemName=VSCodeEmpaths.erroraffirmations&ssr=false#overview)
+
 
 <p align="center">
 <img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800" /></p>
