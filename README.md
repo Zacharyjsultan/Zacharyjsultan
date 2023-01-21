@@ -8,7 +8,7 @@
  
 
 ## A little bit about me..
-&nbsp;&nbsp;&nbsp;&nbsp;Well-seasoned business professional and Software Developer with a background in software-sales and business management. I have developed a keen interest in front-end development utilizing React and Javascript, project management and UI/UX. With ranging experience I have developed creativity, problem solving, people skills and an interest in increasing value through optimal user experience.
+&nbsp;&nbsp;&nbsp;&nbsp;Well-seasoned business professional and software developer with a background in software-sales and business management. I have developed a passion for front-end utilizing React and Javascript, project management and UI/UX. With ranging experience I have had the opportunity to utilize and expand my creativity, problem solving, people skills.
 
 When I am not clacking away on VSCode, I enjoy skateboarding, outdoor adventures and cooking. 
 
