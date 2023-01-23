@@ -49,7 +49,7 @@ Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision
 
 Dev Practices: TDD, DDD Pair & Mob Programming, Object Oriented Programming OOP 
   
-Up next: Python, Typescript, Figma & Adobe Illustrator/Photoshop
+Up next: Python, Typescript & Adobe Illustrator/Photoshop
   
   </div>
  
