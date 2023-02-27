@@ -44,7 +44,7 @@ Languages: JavaScript, HTML5, CSS3, SQL
 
 Frameworks/Libraries: React, Express & Node 
 
-Databases: Supabase, Postgres 
+Databases: Supabase, PostgresSQL 
 
 Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision 
 
