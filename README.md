@@ -2,14 +2,14 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin align="left" />
     <a href="mailto:zacharyjsultan@gmail.com">
   <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" align="right">
-  <h1 align="center" >Bienvenidos!</h1>
+  <h1 align="center" >Welcome!</h1>
 </a>
 
 </a>
 
  
 
-## A little bit about me..
+## A little bit about Zach..
 &nbsp;&nbsp;&nbsp;&nbsp;Well-seasoned business professional and quick learning software developer with a background in software-sales and business management. With ranging experience I have had the opportunity to develop creativity, diverse problem solving skills and learn effective communication skills. I take my prior business experience with me as software developer and have grown a passion for front-end development, QA Engineer and DevOps along the way.
 
 
