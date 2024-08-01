@@ -10,8 +10,7 @@
  
 
 ## A little bit about Zach..
-&nbsp;&nbsp;&nbsp;&nbsp;Well-seasoned software developer with a background in SaaS software-sales and business management. With ranging experience I have had the opportunity to develop creativity, diverse problem solving skills and learn effective communication skills. I take my prior business experience with me as software developer and have grown a passion for front-end development, UX/UI and technical project management utilizing agile methodologies along the way.
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 Skills in the works!
 
