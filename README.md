@@ -12,7 +12,6 @@
 ## A little bit about Zach..
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-Skills in the works!
 
 
 
