@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<img src="./Avatar-removebg-preview.png" alt="Alt text" title="Optional title" width="200" height="200" align="center" >
+<!-- <img src="./Avatar-removebg-preview.png" alt="Alt text" title="Optional title" width="200" height="200" align="center" > -->
 </div>
     </div>
 
