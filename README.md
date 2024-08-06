@@ -1,15 +1,10 @@
- <a href="https://linkedin.com/in/zachary-sultan" target="_blank" align="center"> 
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin align="left" />
-    <a href="mailto:zacharyjsultan@gmail.com">
-  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" align="right">
-  <h1 align="center" >Welcome!</h1>
-</a>
+
 
 </a>
 
  
 
-## A little bit about Zach..
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
@@ -47,8 +42,7 @@ Databases: Supabase, PostgresSQL
 Tools: Github, Beekeeper, Salesforce, Heroku, Netsuite, Ajera, Infor, Vision 
 
 Dev Practices: TDD, DDD Pair & Mob Programming, Object Oriented Programming OOP 
-  
-Up next: Python, Typescript & Adobe Illustrator/Photoshop
+ 
   
   </div>
  
@@ -68,10 +62,7 @@ A VSCode Extension and custom Jest reporter designed to foster positive thought 
 <p align="center">
 <img src="./notificationbar.png" alt="Notification-Affirmations-Example" width="800" /></p>
 
-## Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/{Zacharyjsultan}/count.svg)
-  
 
 
 
